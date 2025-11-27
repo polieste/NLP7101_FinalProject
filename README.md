@@ -1,0 +1,5 @@
+- Split Data: Split data into train/dev/test
+- EDA: EDA of the dataset
+- Lexicon: Lexicon-based approach
+- Encoder-finetune: finetuning approach, change model if necessary
+- Encoder-inference: predict to have final results
